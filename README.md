@@ -1,4 +1,4 @@
-# EasyVote
+# Decentralised Voting System
 
 > YouTube Video Link
 
@@ -6,13 +6,13 @@
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="EasyVote video" width="240" height="180" border="10" /></a>
 
-> What is EasyVote?
+> What is Decentralised Voting System?
 
 Voting framework where people can vote on questions and choices.
 
 > How it will help me?
 
-One of the most critical ways that individuals can influence governmental decision-making is through voting. Fair and accurate elections are vital for a healthy democracy. Many voters choose not to vote to avoid travelling far and waiting in long queues. EasyVote gives you the freedom to vote from wherever you wish you, while ensuring security and transparency.
+One of the most critical ways that individuals can influence governmental decision-making is through voting. Fair and accurate elections are vital for a healthy democracy. Many voters choose not to vote to avoid travelling far and waiting in long queues. Decentralised Voting System gives you the freedom to vote from wherever you wish you, while ensuring security and transparency.
 
 > Why is the blockchain necessary for voting?
 
